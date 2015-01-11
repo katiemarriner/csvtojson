@@ -1,4 +1,5 @@
 # CSV to JSON Python Script
+This is a working script that will convert a CSV file to valid JSON using Python. It is a working script and will soon be more robust. Currently bare-bones.
 
 # Usage
 1. Clone repo and navigate to inside the directory.
